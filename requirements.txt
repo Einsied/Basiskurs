@@ -1,2 +1,2 @@
 numpy==1.16.*
-matplotl3.*
+matplotlib==3.*
